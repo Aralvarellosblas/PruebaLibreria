@@ -4,3 +4,6 @@
 [submodule "Lib2"]
 	path = Lib2
 	url = https://github.com/jborrajorodriguez/libreriaCOD.git
+[submodule "Lib3"]
+	path = Lib3
+	url = https://github.com/jborrajorodriguez/libreriaCOD.git
