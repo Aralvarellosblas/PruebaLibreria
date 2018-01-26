@@ -1,3 +1,6 @@
 [submodule "Lib"]
 	path = Lib
 	url = https://github.com/damiannogueiras/MiLibreria.git
+[submodule "Lib2"]
+	path = Lib2
+	url = https://github.com/jborrajorodriguez/libreriaCOD.git
